@@ -48,5 +48,5 @@ heroi3.atacar();
 let heroi4 = new Heroi("Camy", 18, "ninja");
 heroi4.atacar();
 
-let heroi5 = new Heroi("Orfeu", 01, "poder do heroi");
+let heroi5 = new Heroi("Orfeu", 1, "poder do heroi");
 heroi5.atacar();
